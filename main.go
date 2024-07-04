@@ -9,4 +9,5 @@ func main() {
 
 	fmt.Println("Hand:", hand)
 	fmt.Println("RemainigCards:", remainigCards)
+
 }
